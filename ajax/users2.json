@@ -6,12 +6,12 @@
   },
   {
     "ss":10002
-    "name":"Robyn
-    "department":"chemistry
+    "name":"Robyn",
+    "department":"chemistry"
   },
   {
     "id":10003
-    "name":"Stu
-    "department":"particle physics
+    "name":"Stu",
+    "department":"particle physics"
   }
 ]
