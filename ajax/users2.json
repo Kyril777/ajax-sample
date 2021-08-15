@@ -5,12 +5,12 @@
     "department":"metalurgy"
   },
   {
-    "ss":10002
+    "ss":10002,
     "name":"Robyn",
     "department":"chemistry"
   },
   {
-    "id":10003
+    "id":10003,
     "name":"Stu",
     "department":"particle physics"
   }
